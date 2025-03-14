@@ -1,0 +1,3 @@
+com\example\consumer\config\RabbitMQConfig.class
+com\example\consumer\ConsumerApplication.class
+com\example\consumer\service\MessageListener.class

@@ -61,7 +61,7 @@ docker-compose up --build
 ### Endpoints de Saúde
 
 - Producer: http://localhost:8081/actuator/health
-- Consumer: http://localhost:8080/actuator/health
+
 
 ### RabbitMQ Management
 
@@ -140,14 +140,5 @@ Os logs são gerados em formato estruturado e incluem:
 4. Push para a Branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
 
-## ✨ Melhorias Futuras
 
-- Implementar autenticação/autorização
-- Adicionar testes unitários e de integração
-- Implementar circuit breaker
-- Adicionar tracing distribuído
-- Implementar métricas customizadas
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
